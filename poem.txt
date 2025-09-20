@@ -1,4 +1,4 @@
-Roses are green
-Violets are purple,
-Sugar is sweet
-And so are you.
+roses are green
+violets are purple,
+sugar is sweet
+and so are you.
